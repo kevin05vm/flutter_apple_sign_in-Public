@@ -1,6 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="dev.gilder.tom.apple_sign_in">
-  <meta-data
-       android:name="flutterEmbedding"
-       android:value="2" />
 </manifest>
