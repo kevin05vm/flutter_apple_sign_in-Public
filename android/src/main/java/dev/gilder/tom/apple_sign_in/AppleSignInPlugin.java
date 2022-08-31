@@ -18,12 +18,6 @@ public class AppleSignInPlugin implements FlutterPlugin, MethodCallHandler {
   private MethodChannel channel;
   private Context context;
 
-  public AppleSignInPlugin {
-    public static void main(String[] args) {
-        
-    }
-  }
-
   public AppleSignInPlugin(Context context) {
     this.context = context;
   }
