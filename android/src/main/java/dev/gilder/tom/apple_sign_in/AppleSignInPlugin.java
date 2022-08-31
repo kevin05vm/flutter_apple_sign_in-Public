@@ -25,9 +25,7 @@ public class AppleSignInPlugin implements FlutterPlugin, MethodCallHandler {
   }
 
   public AppleSignInPlugin(Context context) {
-    public static void main(String[] args) {
-      this.context = context;  
-    }
+    this.context = context;
   }
 
   @Override
